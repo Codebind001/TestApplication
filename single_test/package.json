@@ -1,0 +1,17 @@
+{
+  "name": "firstnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "insall": "npm i"
+  },
+  "author": "Abdur Rahman",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.7.10",
+    "mysql": "^2.17.1"
+  }
+}
